@@ -1,11 +1,24 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Assistant
+---
 
-Organize your courses by years, topics, or universities, however you like!
+**University of Western Ontario**
+
+ECE 4460B - Real Time Embedded Systems, Winter 2016
+
+ECE 3330A - Control Systems, Fall 2015
+
+ECE 1036A - Programming Fundamentals for Engineers, Summer 2015
+
+ECE 4460B - Real Time Embedded Systems, Winter 2015
+
+ECE 3374A - Introduction to Electronics for Mechanical Engineering, Fall 2014
+
+ECE 2274B - Electric Circuits and Electromechanics, Winter 2014
